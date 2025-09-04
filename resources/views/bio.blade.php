@@ -22,9 +22,16 @@
                 <hr class="my-4 border-gray-300" />
                 <div class="flex flex-col justify-center gap-2 text-sm">
                     <h2 class="text-lg text-left font-semibold">Biografia</h2>
-                    <p class="text-left">Nací en Bucaramanga, soy originario de Colombia. Mis padres se llaman Miguel Vicente y Adriana
+                    <p class="text-left">Nací en Bucaramanga, soy originario de Colombia. Mis padres se llaman Miguel
+                        Vicente y Adriana
                         Marcela y tengo una
                         hermana llamada valeria. Crecí en un ambiente familiar lleno de amor y respeto.
+                    </p>
+                    <p class="text-left">
+                        Durante mi niñez, crecí en Bucaramanga con el amor y apoyo de mi familia. Estudié toda la
+                        primaria y el bachillerato en el Colegio Franciscano del Virrey Solís, donde aprendí valores
+                        importantes como la responsabilidad y el respeto. Estas experiencias formaron la base de mi
+                        educación y han sido clave para mi desarrollo personal.
                     </p>
                 </div>
             </div>
