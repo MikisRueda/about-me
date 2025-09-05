@@ -40,6 +40,15 @@
                         UPB, donde cursé hasta el 2022. Desde entonces, continúo mi formación en la Universidad
                         Autónoma de Bucaramanga UNAB, comprometido con mis metas y crecimiento profesional.
                     </p>
+                    <p class="text-left">
+                        Actualmente estoy cursando mi penúltimo semestre de Ingeniería en la
+                        Universidad Autónoma de Bucaramanga. Además de mis estudios, me he dedicado a trabajar
+                        como desarrollador freelance, participando en distintos proyectos donde he utilizado tecnologías
+                        modernas como React, Vite, y otras herramientas del ecosistema web. Esta experiencia profesional
+                        me ha permitido fortalecer mis habilidades técnicas, aprender nuevas metodologías y adaptarme a
+                        las exigencias del mercado.
+                    </p>
+
                 </div>
             </div>
         </div>
