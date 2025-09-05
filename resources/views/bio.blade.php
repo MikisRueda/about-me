@@ -33,6 +33,13 @@
                         importantes como la responsabilidad y el respeto. Estas experiencias formaron la base de mi
                         educación y han sido clave para mi desarrollo personal.
                     </p>
+                    <p class="text-left">
+                        Durante mi adolescencia, viví importantes etapas de formación personal y académica. Culminé el
+                        bachillerato en el Colegio Franciscano del Virrey Solís, donde consolidé mis conocimientos y
+                        valores. En 2020 inicié mis estudios universitarios en la Universidad Pontificia Bolivariana
+                        UPB, donde cursé hasta el 2022. Desde entonces, continúo mi formación en la Universidad
+                        Autónoma de Bucaramanga UNAB, comprometido con mis metas y crecimiento profesional.
+                    </p>
                 </div>
             </div>
         </div>
