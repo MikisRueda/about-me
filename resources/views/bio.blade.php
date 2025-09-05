@@ -55,10 +55,26 @@
                         En el futuro, aspiro a crecer profesionalmente como ingeniero, aportando soluciones innovadoras
                         en el área de la tecnología y el desarrollo de software. Mi meta es seguir perfeccionando mis
                         habilidades técnicas, aprender constantemente sobre nuevas herramientas y tendencias, y
-                        participar en proyectos. Sueño colaborar en equipos internacionales, emprender mis propios proyectos y contribuir al
+                        participar en proyectos. Sueño colaborar en equipos internacionales, emprender mis propios
+                        proyectos y contribuir al
                         desarrollo tecnológico de mi entorno. Estoy convencido de que con dedicación y aprendizaje
                         continuo alcanzare mis objetivos.
                     </p>
+                </div>
+                <hr class="my-4 border-gray-300" />
+                <div class="flex flex-col md:flex-row text-sm gap-2 md:gap-0">
+                    <div class="flex flex-col w-full md:w-1/2 gap-2">
+                        <h2 class="text-lg text-left font-semibold">Experiencia laboral</h2>
+                        <ul class="text-left list-disc list-inside">
+                            <li>Disney, Quick service. Jul - Ago 2025</li>
+                        </ul>
+                    </div>
+                    <div class="flex flex-col w-full md:w-1/2 gap-2">
+                        <h2 class="text-lg text-left font-semibold">Habilidades</h2>
+                        <ul class="text-left list-disc list-inside">
+                            <li>Lorem</li>
+                        </ul>
+                    </div>
                 </div>
             </div>
         </div>
