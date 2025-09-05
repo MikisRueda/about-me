@@ -78,13 +78,13 @@
                             <ul class="italic text-left list-disc list-inside">
                                 <li>Comunicación efectiva</li>
                                 <li>Trabajo en equipo</li>
-                                <li>Lorem</li>
+                                <li>Resolución de problemas</li>
                             </ul>
                             <p class="text-sm text-left">Hard-skills (Habilidades técnicas)</p>
                             <ul class="italic text-left list-disc list-inside">
                                 <li>Desarrollo web con React</li>
                                 <li>Uso de Vite para construcción de aplicaciones</li>
-                                <li>Lorem</li>
+                                <li>Manejo de bases de datos SQL</li>
                             </ul>
                         </div>
                     </div>
