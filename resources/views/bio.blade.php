@@ -62,11 +62,12 @@
                     </p>
                 </div>
                 <hr class="my-4 border-gray-300" />
-                <div class="flex flex-col md:flex-row text-sm gap-2 md:gap-0">
+                <div class="flex flex-col md:flex-row text-sm gap-2">
                     <div class="flex flex-col w-full md:w-1/2 gap-2">
                         <h2 class="text-lg text-left font-semibold">Experiencia laboral</h2>
                         <ul class="text-left list-disc list-inside">
                             <li>Disney, Quick service. Jul - Ago 2025</li>
+                            <li>Baguer S.A.S, Asesor comercial. Nov - Dic 2023</li>
                         </ul>
                     </div>
                     <div class="flex flex-col w-full md:w-1/2 gap-2">
