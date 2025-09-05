@@ -100,6 +100,15 @@
                             <p>Feb 2005 – Nov 2019</p>
                         </div>
                     </div>
+                    <div class="flex flex-col text-left lg:flex-row justify-between gap-1">
+                        <div class="text-left  w-full lg:w-2/3">
+                            <p class="italic font-semibold">Universidad Autónoma de Bucaramanga </p>
+                            <p>Ingeniería de Sistemas e Informática (8tvo semestre en curso)</p>
+                        </div>
+                        <div class="md:text-right font-semibold w-full lg:w-1/3">
+                            <p>Ago 2021 – Actualidad</p>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
