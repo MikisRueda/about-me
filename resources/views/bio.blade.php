@@ -62,7 +62,7 @@
                     </p>
                 </div>
                 <hr class="my-4 border-gray-300" />
-                <div class="flex flex-col md:flex-row text-sm gap-2">
+                <div class="flex flex-col md:flex-row text-sm gap-2 pb-2">
                     <div class="flex flex-col w-full md:w-1/2 gap-2">
                         <h2 class="text-lg text-left font-semibold">Experiencia laboral</h2>
                         <ul class="text-left list-disc list-inside">
@@ -86,6 +86,18 @@
                                 <li>Uso de Vite para construcción de aplicaciones</li>
                                 <li>Manejo de bases de datos SQL</li>
                             </ul>
+                        </div>
+                    </div>
+                </div>
+                <div class="flex flex-col text-sm gap-2">
+                    <h2 class="text-lg text-left font-semibold">Educación</h2>
+                    <div class="flex flex-col text-left lg:flex-row justify-between gap-1">
+                        <div class="text-left  w-full lg:w-2/3">
+                            <p class="italic font-semibold">Colegio Franciscano del Virrey Solís</p>
+                            <p>Educación secundaria</p>
+                        </div>
+                        <div class="md:text-right font-semibold w-full lg:w-1/3">
+                            <p>Feb 2005 – Nov 2019</p>
                         </div>
                     </div>
                 </div>
