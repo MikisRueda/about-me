@@ -20,7 +20,7 @@
                     <p>Colombia, Bucaramanga</p>
                 </div>
                 <hr class="my-4 border-gray-300" />
-                <div class="flex flex-col justify-center gap-2 text-sm">
+                <div class="flex flex-col justify-center gap-2 text-sm pb-2">
                     <h2 class="text-lg text-left font-semibold">Biografia</h2>
                     <p class="text-left">Nací en Bucaramanga, soy originario de Colombia. Mis padres se llaman Miguel
                         Vicente y Adriana
@@ -48,7 +48,17 @@
                         me ha permitido fortalecer mis habilidades técnicas, aprender nuevas metodologías y adaptarme a
                         las exigencias del mercado.
                     </p>
-
+                </div>
+                <div class="flex flex-col justify-center gap-2 text-sm">
+                    <h2 class="text-lg text-left font-semibold">Aspiraciones</h2>
+                    <p class="text-left">
+                        En el futuro, aspiro a crecer profesionalmente como ingeniero, aportando soluciones innovadoras
+                        en el área de la tecnología y el desarrollo de software. Mi meta es seguir perfeccionando mis
+                        habilidades técnicas, aprender constantemente sobre nuevas herramientas y tendencias, y
+                        participar en proyectos. Sueño colaborar en equipos internacionales, emprender mis propios proyectos y contribuir al
+                        desarrollo tecnológico de mi entorno. Estoy convencido de que con dedicación y aprendizaje
+                        continuo alcanzare mis objetivos.
+                    </p>
                 </div>
             </div>
         </div>
