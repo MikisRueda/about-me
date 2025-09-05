@@ -10,11 +10,11 @@
 </head>
 
 <body class="bg-gray-200">
-    <div class="min-h-screen flex items-center justify-center">
+    <div class="min-h-screen flex items-center justify-center p-2">
         <div class="bg-gray-100 p-4 w-full max-w-2xl rounded shadow">
             <div class="text-center text-xl p-2">
                 <h1 class="font-semibold">Miguel Santiago Rueda</h1>
-                <div class="flex sm:flex-row items-center justify-center gap-3 text-sm pt-2">
+                <div class="flex flex-col md:flex-row items-center justify-center gap-3 text-sm pt-2">
                     <p class="underline text-blue-500">msrr_2013@outlook.com</p>
                     <p>28 septiembre 2002</p>
                     <p>Colombia, Bucaramanga</p>
@@ -68,6 +68,7 @@
                         <ul class="text-left list-disc list-inside">
                             <li>Disney, Quick service. Jul - Ago 2025</li>
                             <li>Baguer S.A.S, Asesor comercial. Nov - Dic 2023</li>
+                            <li>Hotel santa elena, Web dev. Nov - Dic 2024</li>
                         </ul>
                     </div>
                     <div class="flex flex-col w-full md:w-1/2 gap-2">
