@@ -110,6 +110,8 @@
                         </div>
                     </div>
                 </div>
+                <hr class="my-4 border-gray-300" />
+                <p class="text-[10px] text-gray-500">Designed by <a href="https://github.com/MikisRueda" class="underline">M1kis</a></p>
             </div>
         </div>
     </div>
