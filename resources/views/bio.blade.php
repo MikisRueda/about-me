@@ -73,9 +73,20 @@
                     </div>
                     <div class="flex flex-col w-full md:w-1/2 gap-2">
                         <h2 class="text-lg text-left font-semibold">Habilidades</h2>
-                        <ul class="text-left list-disc list-inside">
-                            <li>Lorem</li>
-                        </ul>
+                        <div class="flex flex-col gap-1">
+                            <p class="text-sm text-left">Soft-skills (Habilidades blandas)</p>
+                            <ul class="italic text-left list-disc list-inside">
+                                <li>Comunicación efectiva</li>
+                                <li>Lorem</li>
+                                <li>Lorem</li>
+                            </ul>
+                            <p class="text-sm text-left">Hard-skills (Habilidades técnicas)</p>
+                            <ul class="italic text-left list-disc list-inside">
+                                <li>Desarrollo web con React</li>
+                                <li>Lorem</li>
+                                <li>Lorem</li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
