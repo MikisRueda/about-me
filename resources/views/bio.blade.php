@@ -77,13 +77,13 @@
                             <p class="text-sm text-left">Soft-skills (Habilidades blandas)</p>
                             <ul class="italic text-left list-disc list-inside">
                                 <li>Comunicación efectiva</li>
-                                <li>Lorem</li>
+                                <li>Trabajo en equipo</li>
                                 <li>Lorem</li>
                             </ul>
                             <p class="text-sm text-left">Hard-skills (Habilidades técnicas)</p>
                             <ul class="italic text-left list-disc list-inside">
                                 <li>Desarrollo web con React</li>
-                                <li>Lorem</li>
+                                <li>Uso de Vite para construcción de aplicaciones</li>
                                 <li>Lorem</li>
                             </ul>
                         </div>
